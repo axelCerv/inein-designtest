@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/inein-designtest/static/css/main.4a48d3fa.css",
+    "main.js": "/inein-designtest/static/js/main.c721a2d1.js",
+    "static/media/car-card.jpg": "/inein-designtest/static/media/car-card.932f9855a726d245f3ea.jpg",
+    "static/media/car-1.png": "/inein-designtest/static/media/car-1.e1eec34d5aa5dfe7cccf.png",
+    "static/media/brand1.png": "/inein-designtest/static/media/brand1.965b23d7abc3dd1571a3.png",
+    "static/media/brand10.png": "/inein-designtest/static/media/brand10.f018f19b9f0e71da2cb8.png",
+    "static/media/brand7.png": "/inein-designtest/static/media/brand7.7ff9b58746871aa0fa03.png",
+    "static/media/brand9.png": "/inein-designtest/static/media/brand9.f908b3c1487d0dba0dd8.png",
+    "static/media/brand2.png": "/inein-designtest/static/media/brand2.c50966656563480aee91.png",
+    "static/media/brand4.png": "/inein-designtest/static/media/brand4.2b6421c24b40ff6f06d4.png",
+    "static/media/brand5.png": "/inein-designtest/static/media/brand5.82138dbbb7a38ac81747.png",
+    "static/media/brand3.png": "/inein-designtest/static/media/brand3.a15405916939880b9e42.png",
+    "static/media/brand6.png": "/inein-designtest/static/media/brand6.efe4dc77387b8cca6686.png",
+    "static/media/brand8.png": "/inein-designtest/static/media/brand8.8a511e696bbf041bc71d.png",
+    "index.html": "/inein-designtest/index.html",
+    "main.4a48d3fa.css.map": "/inein-designtest/static/css/main.4a48d3fa.css.map",
+    "main.c721a2d1.js.map": "/inein-designtest/static/js/main.c721a2d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a48d3fa.css",
+    "static/js/main.c721a2d1.js"
+  ]
+}
