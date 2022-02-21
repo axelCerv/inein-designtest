@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/inein-designtest/static/css/main.4a48d3fa.css",
-    "main.js": "/inein-designtest/static/js/main.c721a2d1.js",
+    "main.css": "/inein-designtest/static/css/main.f9302707.css",
+    "main.js": "/inein-designtest/static/js/main.21927611.js",
     "static/media/car-card.jpg": "/inein-designtest/static/media/car-card.932f9855a726d245f3ea.jpg",
     "static/media/car-1.png": "/inein-designtest/static/media/car-1.e1eec34d5aa5dfe7cccf.png",
     "static/media/brand1.png": "/inein-designtest/static/media/brand1.965b23d7abc3dd1571a3.png",
@@ -15,11 +15,11 @@
     "static/media/brand6.png": "/inein-designtest/static/media/brand6.efe4dc77387b8cca6686.png",
     "static/media/brand8.png": "/inein-designtest/static/media/brand8.8a511e696bbf041bc71d.png",
     "index.html": "/inein-designtest/index.html",
-    "main.4a48d3fa.css.map": "/inein-designtest/static/css/main.4a48d3fa.css.map",
-    "main.c721a2d1.js.map": "/inein-designtest/static/js/main.c721a2d1.js.map"
+    "main.f9302707.css.map": "/inein-designtest/static/css/main.f9302707.css.map",
+    "main.21927611.js.map": "/inein-designtest/static/js/main.21927611.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a48d3fa.css",
-    "static/js/main.c721a2d1.js"
+    "static/css/main.f9302707.css",
+    "static/js/main.21927611.js"
   ]
 }
